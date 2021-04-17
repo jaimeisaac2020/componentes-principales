@@ -1,0 +1,2 @@
+# componentes-principales
+componentes principales
